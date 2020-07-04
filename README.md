@@ -4,7 +4,7 @@
 
 ## Overview
 
-Rekomendasi produk ini dibuat berdasarkan <i>content-based filtering</i> menggunakan dua pendekatan yaitu <b>Cosine Similarity dan Jaccard Similarity.</b> Kemudian saya akan coba bandingkan keduanya secara kualitatif. Untuk ringkasan hasil terdapat di bawah ini, sedangkan untuk lengkapnya ada di [notebook ini](https://github.com/Stev-create/E-commerce-Product-Recommendations---Recommendation-System).
+Rekomendasi produk ini dibuat berdasarkan <i>content-based filtering</i> menggunakan dua pendekatan yaitu <b>Cosine Similarity dan Jaccard Similarity.</b> Kemudian saya akan coba bandingkan keduanya secara kualitatif. Untuk ringkasan hasil terdapat di bawah ini, sedangkan untuk lengkapnya ada di [notebook ini](https://github.com/Stev-create/E-commerce-Product-Recommendations---Recommendation-System/blob/master/E-Commerce%20Product%20Recommendation.ipynb).
 
 ### Results
 
@@ -32,7 +32,7 @@ Dari persamaan-persamaan di atas, seharusnya kita sudah menangkap bagaimana Sosi
 
 ## Conclusion
 
-Pada sistem rekomendasi memang tidak ada sistem yang lebih baik atau lebih buruk. Namun kalau dilihat dari hasil antara dua pendekatan di atas, mereka memiliki hasil yang bersinggungan dan rekomendasi-rekomendasi yang diberikan mirip dengan produk yang dipilih. Hasilnya dapat dilihat di [notebook ini](https://github.com/Stev-create/E-commerce-Product-Recommendations---Recommendation-System), bagian terakhir (<i>sanity check</i>).
+Pada sistem rekomendasi memang tidak ada sistem yang lebih baik atau lebih buruk. Namun kalau dilihat dari hasil antara dua pendekatan di atas, mereka memiliki hasil yang bersinggungan dan rekomendasi-rekomendasi yang diberikan mirip dengan produk yang dipilih. Hasilnya dapat dilihat di [notebook ini](https://github.com/Stev-create/E-commerce-Product-Recommendations---Recommendation-System/blob/master/E-Commerce%20Product%20Recommendation.ipynbm), bagian terakhir (<i>sanity check</i>).
 
 
 
