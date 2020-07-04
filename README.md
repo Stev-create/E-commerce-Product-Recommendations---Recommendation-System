@@ -4,7 +4,7 @@
 
 ## Overview
 
-Rekomendasi produk ini dibuat berdasarkan <i>content-based filtering</i> menggunakan dua pendekatan yaitu <b>Cosine Similarity dan Jaccard Similarity.</b> Kemudian saya akan coba bandingkan keduanya secara kualitatif. Untuk ringkasan hasil terdapat di bawah ini, sedangkan untuk lengkapnya ada di [notebook ini](http://github.com).
+Rekomendasi produk ini dibuat berdasarkan <i>content-based filtering</i> menggunakan dua pendekatan yaitu <b>Cosine Similarity dan Jaccard Similarity.</b> Kemudian saya akan coba bandingkan keduanya secara kualitatif. Untuk ringkasan hasil terdapat di bawah ini, sedangkan untuk lengkapnya ada di [notebook ini](https://github.com/Stev-create/E-commerce-Product-Recommendations---Recommendation-System).
 
 ### Results
 
@@ -30,7 +30,7 @@ Sedangkan untuk Jaccard Similarity:
 
 Dari persamaan-persamaan di atas, seharusnya kita sudah menangkap bagaimana Sosine dan Jaccard Similarity bekerja. Pada Cosine, semakin kecil sudutnya (bisa dibayangkan kedekatan dua objek) semakin besar nilainya. Sedangkan untuk Jaccard, semakin banyak irisannya (atau miripnya) semakin besar nilainya. 
 
-Pada sistem rekomendasi memang tidak ada sistem yang lebih baik atau lebih buruk. Namun kalau dilihat dari hasil antara dua pendekatan di atas, mereka memiliki hasil yang bersinggungan dan cocok dengan produk yang kita pilih sebelumnya. Hasilnya dapat dilihat di [notebook ini](http://github.com), bagian terakhir (<i>sanity check</i>)
+Pada sistem rekomendasi memang tidak ada sistem yang lebih baik atau lebih buruk. Namun kalau dilihat dari hasil antara dua pendekatan di atas, mereka memiliki hasil yang bersinggungan dan cocok dengan produk yang kita pilih sebelumnya. Hasilnya dapat dilihat di [notebook ini](https://github.com/Stev-create/E-commerce-Product-Recommendations---Recommendation-System), bagian terakhir (<i>sanity check</i>).
 
 
 
