@@ -12,6 +12,10 @@ Rekomendasi produk ini dibuat berdasarkan <i>content-based filtering</i> menggun
 
 Dataset di atas, masih memiliki tag-tag HTML seperti `<br>` `<b>` `<ul>` dan lainnya. Itu kenapa dilakukannya juga pembersihan teks pada project ini. 
 
+![GitHub Logo](/images/1.png)
+
+![GitHub Logo](/images/2.png)
+
 #### Cosine Similarity & Jaccard Similarity
 
 Cosine similarity punya persamaannya yang sederhana, yaitu:
