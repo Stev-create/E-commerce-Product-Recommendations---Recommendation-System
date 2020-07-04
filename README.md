@@ -30,7 +30,9 @@ Sedangkan untuk Jaccard Similarity:
 
 Dari persamaan-persamaan di atas, seharusnya kita sudah menangkap bagaimana Sosine dan Jaccard Similarity bekerja. Pada Cosine, semakin kecil sudutnya (bisa dibayangkan kedekatan dua objek) semakin besar nilainya. Sedangkan untuk Jaccard, semakin banyak irisannya (atau miripnya) semakin besar nilainya. 
 
-Pada sistem rekomendasi memang tidak ada sistem yang lebih baik atau lebih buruk. Namun kalau dilihat dari hasil antara dua pendekatan di atas, mereka memiliki hasil yang bersinggungan dan cocok dengan produk yang kita pilih sebelumnya. Hasilnya dapat dilihat di [notebook ini](https://github.com/Stev-create/E-commerce-Product-Recommendations---Recommendation-System), bagian terakhir (<i>sanity check</i>).
+## Conclusion
+
+Pada sistem rekomendasi memang tidak ada sistem yang lebih baik atau lebih buruk. Namun kalau dilihat dari hasil antara dua pendekatan di atas, mereka memiliki hasil yang bersinggungan dan rekomendasi-rekomendasi yang diberikan mirip dengan produk yang dipilih. Hasilnya dapat dilihat di [notebook ini](https://github.com/Stev-create/E-commerce-Product-Recommendations---Recommendation-System), bagian terakhir (<i>sanity check</i>).
 
 
 
