@@ -14,9 +14,9 @@ Dataset di atas, masih memiliki tag-tag HTML seperti `<br>` `<b>` `<ul>` dan lai
 
 ![GitHub Logo](/images/1.png)
 
-![GitHub Logo](/images/2.png)
+Produk-produk di dataset ini kebanyakan produk untuk pakaian luar. Itu kenapa, kata-kata yang bermunculan adalah kata-kata yang berhubungan dengan bahan-bahan baju dan ramah lingkungan. Yang words cloudnya dapat di lihat di bawah:
 
-Produk-produk di dataset ini kebanyakan produk untuk pakaian luar. Itu kenapa, kata-kata yang bermunculan adalah kata-kata yang berhubungan dengan bahan-bahan baju dan ramah lingkungan. 
+![GitHub Logo](/images/2.png)
 
 #### Cosine Similarity & Jaccard Similarity
 
