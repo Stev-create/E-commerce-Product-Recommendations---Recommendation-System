@@ -19,6 +19,8 @@ Pada cosine similarity memiliki persamaan:
 {% raw %}
  $$similarity = cos(\theta) = \frac{\vec{A}\cdot \vec{B}}{\left | A \right |\left | B \right |}$$
 {% endraw %}
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
  
 Sedangkan untuk Jaccard Similarity:
 
