@@ -16,8 +16,10 @@ Dataset di atas, masih memiliki tag-tag HTML seperti `<br>,` `<b>,` `<lu>` dan l
 
 Pada cosine similarity memiliki persamaan:
 
-$$similarity = cos(\theta) = \frac{\vec{A}\cdot \vec{B}}{\left | A \right |\left | B \right |}$$
-
+{% raw %}
+ $$similarity = cos(\theta) = \frac{\vec{A}\cdot \vec{B}}{\left | A \right |\left | B \right |}$$
+{% endraw %}
+ 
 Sedangkan untuk Jaccard Similarity:
 
 $$J(A,B) = \frac{\left | A\cap B \right |}{\left | A\cup B \right |}$$
