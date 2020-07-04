@@ -10,11 +10,9 @@ Rekomendasi produk ini dibuat berdasarkan <i>content-based filtering</i> menggun
 
 #### EDA
 
-Dataset di atas, masih memiliki tag-tag HTML seperti `<br>` `<b>` `<ul>` dan lainnya. Itu kenapa dilakukannya juga pembersihan teks pada project ini. 
+Dataset di atas, masih memiliki tag-tag HTML seperti `<br>` `<b>` `<ul>` dan lainnya. Itu kenapa dilakukannya juga pembersihan teks pada project ini. Kemudian jumlah karakter di dataset ini relatif sedikit, mengingat fitur di dataset ini hanya satu, yaitu deskripsi produk. Yang distribusinya dapat dilihat di bawah:
 
 ![GitHub Logo](/images/1.png)
-
-Jumlah karakter di dataset ini tidak terlalu banyak, mengingat fitur di dataset ini hanya satu yaitu deskripsi produk. 
 
 ![GitHub Logo](/images/2.png)
 
