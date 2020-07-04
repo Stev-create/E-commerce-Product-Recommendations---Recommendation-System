@@ -16,11 +16,7 @@ Dataset di atas, masih memiliki tag-tag HTML seperti `<br>,` `<b>,` `<lu>` dan l
 
 Pada cosine similarity memiliki persamaan:
 
-{% raw %}
- $$$$
-{% endraw %}
-
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;similarity = cos(\theta) = \frac{\vec{A}\cdot \vec{B}}{\left | A \right |\left | B \right |}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+<a href="https://www.codecogs.com/eqnedit.php?latex=similarity&space;=&space;\cos(\theta)&space;=&space;\frac{\vec{A}\cdot&space;\vec{B}}{\left&space;|&space;A&space;\right&space;|\left&space;|&space;B&space;\right&space;|}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?similarity&space;=&space;\cos(\theta)&space;=&space;\frac{\vec{A}\cdot&space;\vec{B}}{\left&space;|&space;A&space;\right&space;|\left&space;|&space;B&space;\right&space;|}" title="similarity = \cos(\theta) = \frac{\vec{A}\cdot \vec{B}}{\left | A \right |\left | B \right |}" /></a>
  
 Sedangkan untuk Jaccard Similarity:
 
