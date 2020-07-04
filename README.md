@@ -28,7 +28,7 @@ Sedangkan untuk Jaccard Similarity:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=J(A,B)&space;=&space;\frac{\left&space;|&space;A\cap&space;B&space;\right&space;|}{\left&space;|&space;A\cup&space;B&space;\right&space;|}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?J(A,B)&space;=&space;\frac{\left&space;|&space;A\cap&space;B&space;\right&space;|}{\left&space;|&space;A\cup&space;B&space;\right&space;|}" title="J(A,B) = \frac{\left | A\cap B \right |}{\left | A\cup B \right |}" /></a>
 
-Dari persamaan-persamaan di atas, seharusnya kita sudah menangkap bagaimana Sosine dan Jaccard Similarity bekerja. Pada Cosine, semakin kecil sudutnya (bisa dibayangkan kedekatan dua objek) semakin besar nilainya. Sedangkan untuk Jaccard, semakin banyak irisannya (atau miripnya) semakin besar nilainya. 
+Dari persamaan-persamaan di atas, seharusnya kita sudah menangkap bagaimana Cosine dan Jaccard Similarity bekerja. Pada Cosine, semakin kecil sudutnya (bisa dibayangkan kedekatan dua objek) semakin besar nilainya. Sedangkan untuk Jaccard, semakin banyak irisannya (atau miripnya) semakin besar nilainya. 
 
 ## Conclusion
 
