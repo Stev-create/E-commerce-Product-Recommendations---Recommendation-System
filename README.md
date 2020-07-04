@@ -4,7 +4,7 @@
 
 ## Overview
 
-Rekomendasi produk ini dibuat berdasarkan content-based filtering menggunakan cosine similarity dan Jaccard similarity. Untuk ringkasan hasil terdapat di bawah ini, sedangkan untuk lengkapnya ada di notebook ini.
+Rekomendasi produk ini dibuat berdasarkan <i>content-based filtering</i> menggunakan dua pendekatan yaitu <b>cosine similarity dan Jaccard similarity.</b> Kemudian saya akan coba bandingkan keduanya secara kualitatif. Untuk ringkasan hasil terdapat di bawah ini, sedangkan untuk lengkapnya ada di notebook ini.
 
 ### Results
 
