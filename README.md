@@ -6,7 +6,7 @@
 
 Rekomendasi produk ini dibuat berdasarkan <i>content-based filtering</i> menggunakan dua pendekatan yaitu <b>Cosine Similarity dan Jaccard Similarity.</b> Kemudian saya akan coba bandingkan keduanya secara kualitatif. Untuk ringkasan hasil terdapat di bawah ini, sedangkan untuk lengkapnya ada di [notebook ini](https://github.com/Stev-create/E-commerce-Product-Recommendations---Recommendation-System/blob/master/E-Commerce%20Product%20Recommendation.ipynb).
 
-### Results
+### Summary
 
 #### Exploratory Data Analysis
 
