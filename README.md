@@ -12,7 +12,7 @@ A simple Recommendation system involving a content-based filtering, using Cosine
 
 #### Exploratory Data Analysis
 
-First, I need to clean the data. As we can see below the random sample show us there is tags HTML like `<br>`, `<b>`, `<ul>`, and etc.
+First, I need to clean the data. As we can see below the random sample show us there is tags HTML like `<br>`, `<b>`, `<ul>`, etc.
 
 ![GitHub Logo](/images/cos1.png)
 
