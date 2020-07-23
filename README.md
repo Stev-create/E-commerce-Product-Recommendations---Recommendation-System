@@ -49,3 +49,5 @@ And this is the top 3 Recommendation Products with Jaccard Similarity Approach:
 ## Conclusion
 
 In the recommendation system there is no better or worse system. But when we look from the results, I can say, they have a good results and the recommendations given are similar to the product chosen. For detail, can be seen in [this notebook](https://github.com/Stev-create/E-commerce-Product-Recommendations---Recommendation-System/blob/master/E-Commerce%20Product%20Recommendation.ipynb).
+
+## Thank you
